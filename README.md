@@ -1,2 +1,5 @@
+<h1> Challenge de Alura G8</h1>
 # alura
-alura-challenge
+- Alura-challenge
+- Estado: En construcción
+
